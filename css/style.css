@@ -336,7 +336,10 @@ i.carousel-control-next-icon::before, i.carousel-control-prev-icon::before {
     }
 }
 
-.mercado {
-    height: 80vh;
+@media (min-width: 1024px){
+    .mercado {
+        height: 80vh;
+    }
 }
+
 
