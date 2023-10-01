@@ -332,7 +332,7 @@ i.carousel-control-next-icon::before, i.carousel-control-prev-icon::before {
 
 @media (max-width: 769px){
     .mercado {
-        height: 0vh;
+        
     }
 }
 
