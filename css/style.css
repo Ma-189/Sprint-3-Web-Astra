@@ -330,14 +330,10 @@ i.carousel-control-next-icon::before, i.carousel-control-prev-icon::before {
     padding-right: 0;
 }
 
-@media (max-width: 769px){
+@media (min-width: 1024px){
     .mercado {
-        
+        height: 80vh
     }
-}
-
- .mercado {
-    height: 80vh;
 }
 
 
