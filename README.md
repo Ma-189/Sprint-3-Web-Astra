@@ -4,5 +4,6 @@ Repositório criado para armazenar o site feito para a Sprint 3 de Web Standars 
 Equipe Astra:
 
 Amanda Dantas de Souza - RM552352
+
 Marcela Stade Carvalho - RM552372
 
